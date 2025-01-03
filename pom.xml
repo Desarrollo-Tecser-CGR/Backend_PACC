@@ -9,11 +9,11 @@
 		<version>3.4.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.cgr</groupId>
+	<groupId>com.pacc</groupId>
 	<artifactId>baseapp</artifactId>
 	<version>1.0</version>
 	<name>baseapp</name>
-	<description>plantilla base para proyectos de cgr</description>
+	<description>plantilla proyecto de pacc</description>
 	<url />
 	<licenses>
 		<license />
